@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinDsl101</string>
+
+    <string name="title_module_b">Module B</string>
+</resources>
